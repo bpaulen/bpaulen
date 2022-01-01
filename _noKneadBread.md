@@ -1,6 +1,6 @@
 layout: page
 title: "No-Knead Bread"
-permalink: https://octocat.github.io/recipes/no-knead
+permalink: https://bpaulen.github.io/recipes/no-knead
 
 ## [No Knead Bread](https://www.markbittman.com/recipes-1/no-knead-bread)
 Recipe from How to Bake Everything
